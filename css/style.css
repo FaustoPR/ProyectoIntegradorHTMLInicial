@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700&display=swap');
+
+
+
+nav h1{
+    font-family: 'Coiny', cursive;
+    font-size: 56px;
+}
+
+nav ul{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
+
+header div h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+}
+
+header div h1 strong {
+    font-family: 'Coiny', cursive;
+    font-size: 117px;
+}
+
+header div h2 {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fcee21;
+    width: 600px;
+    font-size: 26px;
+}
+
+header div p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
+
+header div img {
+    width: 500px;
+    height: auto;
+}
+
+main section div h3 {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fcee21;
+    font-size: 35px;
+}
+
+main section div p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+
+main section div h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 55px;
+}
+
+main section div ol {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    list-style-type: inside;
+}
+
+main section div ol #lista7 {
+    background-color: #fcee21;
+}
+
+main section div h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 68px;
+    background-color: black;
+    color: white;
+}
+
+main section div form label {
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    background-color: #fcee21;
+}
+
+main section div form label strong {
+    color: red;
+}
+
+main section div form input {
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+}
+
+.fondo-negro {
+    color: white;
+    background-color: black;
+}
+
+#contacto, .texto, .formulario {
+    display: flex;
+}
+
+aside {
+    font-family: 'Roboto', sans-serif;
+    font-size: 33px;
+    color: #808080;
+}
+
+aside a img {
+    width: 100px;
+    height: auto;
+}
+
+footer {
+    font-family: 'Coiny', cursive;
+    font-size: 44px;
+    background-color: #fcee21;
+}
+
+/*
+font-family: 'Coiny', cursive;
+font-family: 'Roboto', sans-serif;
